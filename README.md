@@ -6,7 +6,7 @@ Este trabajo de investigación se centra en la creación y combinación de tres 
 2. Mapeo bidimensional de entornos
 3. Generación óptima de trayectorias
 
-Estos algoritmos están diseñados específicamente para vehículos de tracción diferencial equipados principalmente con sensores de distancia. El objetivo es comprender cómo estos vehículos interactúan en entornos desconocidos, utilizando sensores de distancia, sensores de posición de ruedas y una brújula.
+Estos algoritmos están diseñados específicamente para vehículos de tracción diferencial equipados principalmente con sensores de distancia. El objetivo es comprender cómo estos vehículos interactúan en entornos desconocidos, utilizando sensores de distancia, sensores de posición en las ruedas y una brújula.
 
 La validación se llevó a cabo mediante simulaciones computarizadas en entornos diversos, evaluando la precisión de los algoritmos en términos de tiempo de simulación y posición inicial del vehículo, combinada con la precisión al ejecutar la trayectoria óptima hacia el punto de interés.
 
