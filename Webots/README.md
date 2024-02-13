@@ -9,5 +9,6 @@ para colocar las paredes en posiciones previamente definidas.
 * [Modelos_3D/pololu](Webots/Modelos_3D/Pololu): Esta carpeta contiene la representación 3D del vehículo con tracción diferencial Pololu3pi+, los cuales se utilizaron en Webots para realizan un proto y así poder tener una plataforma en la cual poner a prueba los algoritmos desarrollados.
   
 <p align="center">
-  <img src="Anexos/Pololu3pi+/Portada.png" width="50%">
+  <img src="/Anexos/Pololu3pi+/Portada.png" width="40%" >
 </p>
+
