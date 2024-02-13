@@ -13,5 +13,15 @@ La validación se llevó a cabo mediante simulaciones computarizadas en entornos
 Estas pruebas proporcionan información sobre el rendimiento y la optimización de los algoritmos para aplicaciones prácticas en la navegación autónoma de vehículos de tracción diferencial.
 
 <p align="center">
-  <img src="Anexos/MapasWebots/mundoWebots_iso.png">
+  <img src="Anexos/MapasWebots/mundoWebots_iso.png" >
 </p>
+
+
+### A continuación, se presentan vídeos que muestran el funcionamiento y los diversos entornos empleados en este proyecto.
+* Exploración, mapeo, y generación de trayectoria multiagente (3 agentes - mapa 1) - https://youtu.be/ugqqfIQmqxk
+* 1 agente - mapa 1: https://youtu.be/9x5eRWumiUg
+* 1 agente - mapa 2: https://youtu.be/XrF_fyxc4vQ
+* 1 agente - mapa 3: https://youtu.be/WeKUbRw_deo
+* 1 agente - mapa 4: https://youtu.be/qLdiEXIL11k
+* 1 agente - mapa 5: https://youtu.be/-omoPCdh9zU
+
